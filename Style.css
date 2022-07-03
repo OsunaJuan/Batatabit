@@ -124,7 +124,7 @@ main{
     min-width: 192px;
     min-height: 192px;
     margin-bottom: 50px;
-    background-image: url(assets/img/Bitcoin.svg);
+    background-image: url("assets/img/Bitcoin.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -174,7 +174,7 @@ main{
     height: 15px;
     width: 15px;
     margin-left: 10px;
-    background-image: url(assets/icons/trending-down.svg);
+    background-image: url("assets/icons/trending-down.svg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -185,7 +185,7 @@ main{
     display: inline-block;
     height: 15px;
     width: 15px;
-    background-image: url(assets/icons/trending-up.svg);
+    background-image: url("assets/icons/trending-up.svg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -291,7 +291,7 @@ main{
     left: calc(50% - 20px);
     height: 25px;
     width: 40px;
-    background-image: url(assets/icons/batata.svg);
+    background-image: url("assets/icons/batata.svg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -357,19 +357,19 @@ main{
 }
 
 .clock{
-    background-image: url(assets/icons/clock.svg);
+    background-image: url("assets/icons/clock.svg");
 }
 
 .eye{
-    background-image: url(assets/icons/eye.svg);
+    background-image: url("assets/icons/eye.svg");
 }
 
 .dollar{
-    background-image: url(assets/icons/dollar-sign.svg);
+    background-image: url("assets/icons/dollar-sign.svg");
 }
 
 .check{
-    background-image: url(assets/icons/check-circle.svg);
+    background-image: url("assets/icons/check-circle.svg");
 }
 
 
@@ -387,7 +387,7 @@ main{
     min-width: 318px;;
     height: auto;
     min-height: 400px;
-    background-image: url(assets/img/bitcoinbaby2x.jpg);
+    background-image: url("assets/img/bitcoinbaby2x.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;  
@@ -560,7 +560,7 @@ main{
     width: 20px;
     height: 15px;
     margin-left: 5px;
-    background-image:url(assets/icons/orange-right-arrow.svg);
+    background-image:url("assets/icons/orange-right-arrow.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
